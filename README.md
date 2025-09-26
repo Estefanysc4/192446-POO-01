@@ -21,6 +21,10 @@ The manager gives you a UML diagram and asks you to implement the system in **Ja
 Write a short paragraph (5–8 sentences):  
 👉 *What new knowledge or skills did you have to learn by yourself to complete this exam? Give an example.*
 
+tuve que estudiar mejor por mi cuenta como hacer un codigo partiendo de un UML, estudie metodos y atributos para tener un mejor conocimiento
+estudiar encapsulacion aunque fue lo que mejor entendi en clase, pero en los metodos y atributos no puedo entenderlo solo con lo que el profesor explica en clase
+debo estudiar mejor los constructores.
+
 *(Hints: you can talk about UML, encapsulation, constructors, or understanding the exam in English.)*
 
 ---
